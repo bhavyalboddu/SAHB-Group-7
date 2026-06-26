@@ -12,15 +12,15 @@ A end-to-end machine learning project developed for the University of Virginia's
 * Postprocessed predictions on sound data to find optimal times to turn on and off a hypothetical white noise actuator, balancing factors such as cost, latencies, and disruptions to workflow
 
 ## Technologies Used
-Python
-Pandas
-NumPy
-Librosa
-Scikit-learn
-Matplotlib
-Jupyter Notebook
-Git
-GitHub
+* Python
+* Pandas
+* NumPy
+* Librosa
+* Scikit-learn
+* Matplotlib
+* Jupyter Notebook
+* Git
+* GitHub
 
 ## Repository Structure
 * SAHB Group 7 Full Pipeline.ipynb - full end-to-end pipeline using random forest classifier
